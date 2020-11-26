@@ -76,7 +76,7 @@ Podem usufruir do mesmo, além da flexibilidade de saber o quanto de material e 
 <hr><br><br><br><br>
     <div class="Contatoo">
                <li style="font-size: 20px" id="contato"><u><b>Informações para contato</b></u></li> 
-        <p style="font-size: 19px">             Celular: 9XXXXXX... &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Meu Perfil no:  <a href="https://www.linkedin.com/in/lucas-farias-099a4b1b2/" >Linkedin</a>
+        <p>             Celular: 9XXXXXX... &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Meu Perfil no:  <a href="https://www.linkedin.com/in/lucas-farias-099a4b1b2/" >Linkedin</a>
       
       
 </p>
