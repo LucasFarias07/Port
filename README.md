@@ -1,7 +1,7 @@
 <html lang="pt-br">
 
   <head>
-    <title>portifólio</title>
+    <title>portfólio</title>
     <meta charset="utf-8">
       
       
