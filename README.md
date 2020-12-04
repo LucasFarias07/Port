@@ -1,4 +1,3 @@
-
 <html lang="pt-br">
 
   <head>
@@ -34,7 +33,8 @@
               margin-top:5%;
           }
           .Sobre{
-           
+            
+             
               font-size: 20px;
           }
           #Profissional{
@@ -56,6 +56,7 @@
           #Cabeça
           {
               background-color:burlywood;
+    margin: 0px;
               
           }
           
@@ -80,7 +81,7 @@
  
     <div id="Cabeça">                                       
       <p >
-    <img src="Foto.png" height="250px" weight="150px" alt="minha foto" />
+    <img src="Foto.png" height="250px" weight="150px" alt="minha foto" align="left"/>
               <h1><u>Lucas Farias Lopes Martins Ribeiro</u></h1><br><br>
 <div class="Sobre">
           <p><li style="font-size: 23px"><b><u>Um pouco sobre mim</u></b></li></p>
