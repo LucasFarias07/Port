@@ -87,7 +87,7 @@
 </p>
 <div class="Sobre">
           <p><li style="font-size: 23px"><b><u style="margin-left:10px;">Um pouco sobre mim</u></b></li></p>
-      <P style="margin-left:15px;">Me chamo Lucas Farias, tenho 19 anos e sou fascinado pela tecnologia.<br>
+      <P style="border-left:15px;">Me chamo Lucas Farias, tenho 19 anos e sou fascinado pela tecnologia.<br>
         Sou formado pela instituição de ensino militar Fundação Osório, onde também adquiri o diploma de Técnico em administração de empresas, onde aprendi a liderar e organizar projetos, tais como, escritório modelo de administração. Também estagiei no Tribunal Regional Federal da 2ª região, o que agregou bastante a minha formação como indivíduo e profissional. Por último, o ensino militar me ajudou a ter disciplina e a saber lidar com situações de estresse de forma calma e lógica. 
 Dentre as minhas qualidades estão principalmente, criatividade e proatividade, alem de boa comunicação e boa interação com a equipe.<br><br>
 <a href="#Profissional">Minhas experiências profissionais</a>&nbsp;&nbsp;&nbsp;<a href="#Habilidades">Minhas Habilidades</a>&nbsp;&nbsp;&nbsp;<a href="#contato">Fale comigo</a>&nbsp;&nbsp;&nbsp;<a href="#Projetos">Meus projetos</a>&nbsp;&nbsp;&nbsp;<a href="https://lucasfarias07.github.io/Curriculo/">Meu currículo</a>
