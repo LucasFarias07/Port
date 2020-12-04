@@ -33,7 +33,7 @@
               margin-top:5%;
           }
           .Sobre{
-              padding-left: 25%;
+            
               padding-right: 30%;
               font-size: 20px;
           }
@@ -42,7 +42,7 @@
           }
           #Profissionall{
               margin-left: 50px;
-              margin-right: 1220px;
+              margin-right: 120px;
              
           }
           #Habilidades{
@@ -128,6 +128,7 @@ Dentre as minhas qualidades estão principalmente, criatividade e proatividade, 
     
     <div>
     <li style="font-size: 20px" id="Projetos"><u><b>Meus projetos</b></u></li>   
+        <u><b>Nome</b></u>: <p > Green Building</p>
 <p style="font-size: 15px">
         <img src="green.jpg" width="200px" alt="logo" align="center"/>
     <u><b>Tema</b></u>:
