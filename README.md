@@ -9,7 +9,7 @@
             width: 200px;
             height: 250px;
          margin-left: 20px; 
-            margin-top: 5px;
+            margin-top: 13px;
             padding-right: 0px;
           }
           body
@@ -79,9 +79,10 @@
  
  
     <div id="Cabeça">                                       
-      <p >
+      <p>
     <img src="Foto.png"  alt="minha foto"/>
               <h1><u>Lucas Farias Lopes Martins Ribeiro</u></h1><br><br>
+</p>
 <div class="Sobre">
           <p><li style="font-size: 23px"><b><u style="margin-left:10px;">Um pouco sobre mim</u></b></li></p>
       <P style="margin-left:10px;">Me chamo Lucas Farias, tenho 19 anos e sou fascinado pela tecnologia.<br>
