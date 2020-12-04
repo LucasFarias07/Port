@@ -6,7 +6,7 @@
       <style>
           img 
           {
-            width: 250px;
+            width: 150px;
             height: 250px;
            border-left: 40px; 
             margin-top: 0%;
@@ -14,7 +14,6 @@
           }
           body
           {
-            
               background-color:#fbdfb8;
               
             margin: 0%;
