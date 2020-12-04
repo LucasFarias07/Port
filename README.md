@@ -35,7 +35,7 @@
           }
           .Sobre{
             
-              padding-right: 10%;
+            
               font-size: 20px;
           }
           #Profissional{
