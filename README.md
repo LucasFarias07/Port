@@ -6,7 +6,7 @@
       <style>
           img 
           {
-            width: 150px;
+            width: 200px;
             height: 250px;
            border-left: 40px; 
             margin-top: 0%;
