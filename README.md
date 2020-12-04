@@ -8,6 +8,7 @@
           {
             width: 200px;
             height: 250px;
+        border: 2px solid #ffffff;
          margin-left: 20px; 
             margin-top: 13px;
             padding-right: 0px;
@@ -80,7 +81,7 @@
  
     <div id="Cabeça">                                       
       <p>
-    <img src="Foto.png"  alt="minha foto" align="left"/>
+    <img src="Foto.png"  alt="minha foto" />
               <h1><u>Lucas Farias Lopes Martins Ribeiro</u></h1><br><br>
 </p>
 <div class="Sobre">
