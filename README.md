@@ -7,8 +7,8 @@
           img 
           {
             width: 300px;
-            height: 350px;
-           margin-left: 40px; 
+            height: 150px;
+           padding-left: 40px; 
             margin-top: 0%;
             
           }
