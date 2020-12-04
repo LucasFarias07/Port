@@ -56,7 +56,6 @@
           #Cabeça
           {
               background-color:burlywood;
-    margin: 0px;
               
           }
           
