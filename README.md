@@ -80,7 +80,7 @@
  
     <div id="Cabeça">                                       
       <p>
-    <img src="Foto.png"  alt="minha foto"/>
+    <img src="Foto.png"  alt="minha foto" align="left"/>
               <h1><u>Lucas Farias Lopes Martins Ribeiro</u></h1><br><br>
 </p>
 <div class="Sobre">
