@@ -9,9 +9,9 @@
           {
             width: 300px;
             height: 350px;
-            margin-left: 140px;
+            margin-left: 100px;
             margin-top: 0%;
-            border: 3px solid #ffffff;
+            border: 2px solid #ffffff;
           }
           body
           {
@@ -35,7 +35,7 @@
           }
           .Sobre{
             
-            
+        
               font-size: 20px;
           }
           #Profissional{
@@ -57,7 +57,7 @@
           #Cabeça
           {
               background-color:burlywood;
-    margin: px;
+    margin: 0px;
               
           }
           
