@@ -135,7 +135,7 @@ Dentre as minhas qualidades estão principalmente, criatividade e proatividade, 
         <img src="green.jpg" width="200px" alt="logo" align="center"/>
     <u><b>Tema</b></u>:
 Otimização e Redução de Gastos e Recursos na Construção Civil para Profissionais Autônomos e Pequenas Empresas.
-    <p style="margin-left: 50px; margin-right: 40%"><u><b>Descrição</b></u>: Com o avanço da pandemia e o isolamento social, as pessoas ficaram em suas residências por mais tempo e o trabalho de home office passou a se tornar rotina de muitas pessoas no Brasil e no mundo.
+    <p style="margin-left: 50px; margin-right: 250%"><u><b>Descrição</b></u>: Com o avanço da pandemia e o isolamento social, as pessoas ficaram em suas residências por mais tempo e o trabalho de home office passou a se tornar rotina de muitas pessoas no Brasil e no mundo.
     Devido ao ocorrido, pequenos detalhes, que no dia a dia, passavam-se despercebido vieram à tona.
 A vontade de viver o novo é a característica que nos acompanha há séculos, o novo faz parte de nossas vidas, estamos em constante mudança e adaptação, não conseguimos viver com o velho por muito tempo e isso é bom para a evolução.
 É por isso que pensamos no projeto Green Building, o qual é voltado para construção civil e todo o tipo de público, desde pessoas simples, até média e grandes empresas que desejam construir ou fazer pequenas alterações em sua corporação e residência.
