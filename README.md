@@ -10,7 +10,7 @@
             height: 350px;
            margin-left: 40px; 
             margin-top: 0%;
-            border: 2px solid #ffffff;
+            
           }
           body
           {
