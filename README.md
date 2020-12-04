@@ -93,7 +93,7 @@ Dentre as minhas qualidades estão principalmente, criatividade e proatividade, 
 <a href="#Profissional">Minhas experiências profissionais</a>&nbsp;&nbsp;&nbsp;<a href="#Habilidades">Minhas Habilidades</a>&nbsp;&nbsp;&nbsp;<a href="#contato">Fale comigo</a>&nbsp;&nbsp;&nbsp;<a href="#Projetos">Meus projetos</a>&nbsp;&nbsp;&nbsp;<a href="https://lucasfarias07.github.io/Curriculo/">Meu currículo</a>
     </P>
 </div>
-         </p>  <br><br>
+         <br><br>
       </div> 
      
              
