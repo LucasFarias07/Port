@@ -1,9 +1,79 @@
+<!DOCTYPE html>
 <html lang="pt-br">
 
   <head>
-    <title>portfólio</title>
+    <title>portifólio</title>
     <meta charset="utf-8">
+      <style>
+          img 
+          {
+            width: 300px;
+            height: 350px;
+            margin-left: 140px;
+            margin-top: 0%;
+            border: 3px solid #ffffff;
+          }
+          body
+          {
+            
+              background-color:#fbdfb8;
+              
+            margin: 0%;
+              margin-bottom: 0%;
+          }
       
+          h1{
+               margin-left: 40%;
+              margin-top:5%;
+              
+          }
+      
+          #Start
+          {
+             margin-left: 50%;
+              margin-top:5%;
+          }
+          .Sobre{
+              padding-left: 25%;
+              padding-right: 30%;
+              font-size: 20px;
+          }
+          #Profissional{
+              margin-left: 2px;
+          }
+          #Profissionall{
+              margin-left: 50px;
+              margin-right: 1220px;
+             
+          }
+          #Habilidades{
+              margin-left: 2px;
+          }
+          #Habilidadess{
+                margin-left: 50px;
+              margin-right: 20px;
+             
+          }
+          #Cabeça
+          {
+              background-color:burlywood;
+    margin: px;
+              
+          }
+          
+          .Contatoo {
+              
+              background-color:burlywood;
+              
+          }
+          #Formação {
+              margin-left: 53px;
+          }
+          #Formaçãoo {
+              margin-left: 53px;
+          }
+      </style>
+  
       
   </head>
   
@@ -75,7 +145,7 @@ Podem usufruir do mesmo, além da flexibilidade de saber o quanto de material e 
 <hr><br><br><br><br>
     <div class="Contatoo">
                <li style="font-size: 20px" id="contato"><u><b>Informações para contato</b></u></li> 
-        <p>             Celular: 9XXXXXX... &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Meu Perfil no:  <a href="https://www.linkedin.com/in/lucas-farias-099a4b1b2/" >Linkedin</a>
+        <p style="font-size: 19px">             Celular: 9XXXXXX... &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Meu Perfil no:  <a href="https://www.linkedin.com/in/lucas-farias-099a4b1b2/" >Linkedin</a>
       
       
 </p>
