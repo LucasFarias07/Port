@@ -11,7 +11,7 @@
         border: 2px solid #ffffff;
          margin-left: 20px; 
             margin-top: 13px;
-            padding-right: 5px;
+            padding-right: 15px;
         float: left;
           }
           body
